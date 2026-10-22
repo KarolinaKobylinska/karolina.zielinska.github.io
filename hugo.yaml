@@ -1,0 +1,7 @@
+baseURL: https://karolina.zielinska.github.io
+languageCode: en-us
+title: Karolina Zielińska
+theme: ["PaperMod"]
+caches:
+  images:
+    dir: :cacheDir/images

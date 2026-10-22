@@ -5,3 +5,8 @@ theme: ["PaperMod"]
 caches:
   images:
     dir: :cacheDir/images
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search

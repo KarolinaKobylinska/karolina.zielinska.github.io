@@ -1,6 +1,5 @@
 +++
 title = 'Kolmasiqie Vissian (Her Thirteenth Autumn)'
-date = 2026-10-22T22:19:13+02:00
 draft = false
 +++
 

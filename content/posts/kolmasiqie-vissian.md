@@ -2,13 +2,13 @@
 title = 'Kolmasiqie Vissian (Her Thirteenth Autumn)'
 draft = false
 +++
-Z pokoju dziennego pachniało cierpkością farby i naparu z czerwonych owoców. Zapach miał w sobie jednak coś lekkiego, nawet jeśli było to tylko złudne wrażenie, przez kontrast z ciężką wonią mokrego piachu i kamienia - mieszanki powstałej po całym popołudniu wypełnionym jesiennym deszczem.
-Po zamknięciu drzwi przycichł szum z zewnątrz i bez większego problemu było słychać w korytarzu graną na fortepianie melodię.
-— Kiedy ten dom został opętany przez duchy sztuk pięknych a nie wojennych? — rzuciła Ellie, uśmiechając się do Rhena. Jej syn pośpiesznie zrzucał z siebie ociekający deszczem płaszcz. Przewrócił lekko oczami, gdy obrócił się w jej stronę.
-— Myślę, że to twoja wina. Sprowadziłaś sobie malarza do domu.
-— Nie musiałeś dorzucać muzyka do kolekcji — prychnęła elfka.
-— Sam przyszedł — oznajmił Rhen, unosząc dłonie w obronnym geście — ja tylko nieskończenie wydłużam jego zaproszenie.
-Młody elf zniknął w korytarzu, prawdopodobnie chcąc się przebrać i osuszyć przed wygodnym zagnieżdżeniem się wśród domowników. Ellie nie miała jednak nic przeciwko przywitaniu się z nimi przed ogarnięciem się po całym dniu, więc po odwieszeniu swojego płaszcza i odłożeniu broni, ruszyła w stronę salonu.
+<p>Z pokoju dziennego pachniało cierpkością farby i naparu z czerwonych owoców. Zapach miał w sobie jednak coś lekkiego, nawet jeśli było to tylko złudne wrażenie, przez kontrast z ciężką wonią mokrego piachu i kamienia - mieszanki powstałej po całym popołudniu wypełnionym jesiennym deszczem.<br />
+Po zamknięciu drzwi przycichł szum z zewnątrz i bez większego problemu było słychać w korytarzu graną na fortepianie melodię.<br />
+— Kiedy ten dom został opętany przez duchy sztuk pięknych a nie wojennych? — rzuciła Ellie, uśmiechając się do Rhena. Jej syn pośpiesznie zrzucał z siebie ociekający deszczem płaszcz. Przewrócił lekko oczami, gdy obrócił się w jej stronę.<br />
+— Myślę, że to twoja wina. Sprowadziłaś sobie malarza do domu.<br />
+— Nie musiałeś dorzucać muzyka do kolekcji — prychnęła elfka.<br />
+— Sam przyszedł — oznajmił Rhen, unosząc dłonie w obronnym geście — ja tylko nieskończenie wydłużam jego zaproszenie.<br />
+Młody elf zniknął w korytarzu, prawdopodobnie chcąc się przebrać i osuszyć przed wygodnym zagnieżdżeniem się wśród domowników. Ellie nie miała jednak nic przeciwko przywitaniu się z nimi przed ogarnięciem się po całym dniu, więc po odwieszeniu swojego płaszcza i odłożeniu broni, ruszyła w stronę salonu.</p>
 
 W pokoju było ciepło i jasno. W kominku palił się ogień, świece pomagały magicznemu światłu w rozpraszaniu wieczornego zmroku. Elfka oparła się o framugę, nie ingerując jeszcze w spokojną scenę, jaką zastała. Aranell siedział przed sztalugami, całkowicie pogrążony w czymś co powstawało na płótnie. Zwykle skupiał się na bardziej użytkowym wykorzystaniu swoich talentów, jakby zaraził się od Ellie bezwzględną praktycznością. Elfka nie mogła jednak ukryć, jak ucieszyło ją, zobaczenie męża tworzącego obraz, a nie kolejną partię ceramiki. Uwielbiała wszystko co robił, ale gdy malował obrazy, przypominały jej się pierwsze lata ich małżeństwa, które we wspomnieniach wydawały się być najbardziej sielankowymi chwilami jej życia.
 

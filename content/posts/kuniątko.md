@@ -1,7 +1,7 @@
 +++
 title = 'Kuniątko'
 draft = false
-weight = 3
+weight = 1
 +++
 
 W oddaleniu od otwartych na ogrody korytarzy, w części której pozwalano rosnąć bez większych ingerencji, słychać było salwy śmiechu i tłumionych okrzyków ekscytacji. Troje młodych mieszkańców pałacu schowało się między krzewami, tam, gdzie było trochę więcej przestrzeni. Ziemia porosła w tym miejscu koniczyną i każdy krok powodował rozprzestrzenienie się świeżego zapachu, którego zgadzali się nie nazywać inaczej jak po prostu „zielonym”. Rhen miał co prawda wątpliwości, bo kolory kojarzyły mu się z farbami, a te nie pachniały tak przyjemnie, ale w końcu się poddał. Szybko też cała trójka zapomniała o swojej dyskusji, gdy wrócili do tego, z czym w ogóle przyszli do swojej kryjówki między krzewami. Chcieli sprawdzić, komu najdłużej uda się utrzymać Dulcivena pionowo na dłoni, a przeprowadzenie tego testu w pokoju Firy i Reva zostało im przerwane przez Essianari. Matka-niematka bliźniaków nie zdążyła ich jednak powstrzymać przed ucieczką z magicznym mieczem w stronę pałacu. Nie przejmowali się też strażą i gwardią, mieli swoje sposoby na dostanie się do ogrodów, bez bycia zauważonym. A może po prostu przymykano na nich oko.

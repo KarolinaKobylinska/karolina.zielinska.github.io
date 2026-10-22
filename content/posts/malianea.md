@@ -1,6 +1,7 @@
 +++
 title = 'Malianea'
 draft = false
+weight = 1
 +++
 
 Niebieska dziewczynka powolnymi, dokładnymi ruchami dłubała widelcem w kawałku pieczonej ryby. Nie, nie dłubała. Ryba służyła jako postawa dla widelca, a już trochę podrośnięte pisklę po prostu uważnie obserwowało złapany w metal promień światła, prowadząc go po całej długości sztućca.

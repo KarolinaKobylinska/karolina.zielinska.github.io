@@ -1,6 +1,7 @@
 +++
 title = 'Kolmasiqie Vissian (Her Thirteenth Autumn)'
 draft = false
+weight = 2
 +++
 
 Z pokoju dziennego pachniało cierpkością farby i naparu z czerwonych owoców. Zapach miał w sobie jednak coś lekkiego, nawet jeśli było to tylko złudne wrażenie, przez kontrast z ciężką wonią mokrego piachu i kamienia - mieszanki powstałej po całym popołudniu wypełnionym jesiennym deszczem.

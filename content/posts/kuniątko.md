@@ -58,13 +58,15 @@ Wstał i zanim, którekolwiek zdążyło go zatrzymać, uciekł w krzaki. Po ch
 
 — Jak mi powiecie, gdzie mógł się schować, to przewidzę dla was co tylko chcecie — powiedziała Oxialrys, podnosząc się i otrzepując spodnie z koniczyny.
 
-  
+<br/> 
 
 Rhen biegł pozornie na oślep. Trzymał się w linii prostej i przymknął oczy, żeby nie musieć zatrzymywać się przez smagające go po twarzy liście. Wiedział jednak, dokąd zmierza i dopiero u celu się zatrzymał. A właściwie spowolniła go konieczność przedostania się przez płotek otaczający plac treningowy. Wspiął się na niego i stanął na górnym przęśle, po czym bez wysiłku balansując na wąskiej belce, kontynuował swoją ucieczkę. W zwyczajnym wypadku, zostałby tutaj. Chodzenie w kółko po ogrodzeniu było jednym ze sposobów na zabicie czasu, gdy snuł w głowie swoje plany. Czasem pojawiał się ktoś, z kim mógł poćwiczyć walkę, czasami tylko obserwował, jak ćwiczą inni.
 
 Teraz szybkim krokiem przedostał się na drugi koniec placu i przystanął. Nie chciał być znaleziony. Oxialrys w końcu wszystko by z niego wyciągnęła, jeśli nie sposobem, to swoimi wyroczniowymi talentami. A jego plan był tylko jego. Jeśli elfka przekazałaby teraz jego mamie o knuciu w kuchni, jeszcze jakoś by wybrnął. Ale ze szczegółami, które bez wątpienia upewniłyby matkę o prawdziwości planu… to byłby koniec.
 
 Przez parę lat znania elfki, zorientował się, że najgorszą możliwą opcją, jest robienie czegoś losowo i intuicyjnie. W takich wypadkach dodatkowy zmysł złotowłosej działał idealnie. Musiał przemyśleć swój następny krok, ale też nie wybierać czegoś z przyzwyczajenia. Najbliżej była kryjówka przy koszarach, dobrze schowana (żaden strażnik nie odkrył jej przez ostatnie kilka lat) i najwygodniejsza (zabrali sobie tam poduszki z różnych miejsc). Ale kryjówki nie były najlepszym wyjściem. Nie jego kryjówki. Uśmiechnął się do siebie i zaczął biec w stronę pałacu.
+
+<br/> 
 
   
 
@@ -150,9 +152,13 @@ Zamiast odpowiedzieć, Rhen zrobił krok do przodu i mocno się przytulił.
 
 — W porządku — Aranell zaśmiał się lekko — powiedziałbym mamie. Więc strzeż swojego sekretu jeśli uważasz, że to najlepsza opcja.
 
+<br/> 
+
   
 
 Rhen odsunął w czasie swój plan. W ciągu kilku dni zdołał przekonać Oxialrys, że powiedział wszystko ojcu. Gdy elfka zaczepiła Aranella i zaczęła go o to dopytywać, ten zerknął tylko na Rhena, po czym przytaknął, potwierdzając, że wie wszystko, co powinien wiedzieć. A wbrew zapowiedziom, nie miała odwagi dopytywać o cokolwiek Ellie i na niego skarżyć. Chłopiec był wdzięczny, częściowo za tchórzostwo Oxialrys, a częściowo za to, że matka była tak nieprzystępna. Firze i Revowi nie mówił za dużo, ale upewnił się, że dalej zapewnią dla niego dobrą wymówkę, gdyby ktoś go szukał akurat jak wkradałby się do kuchni.
+
+<br/> 
 
   
 
@@ -194,6 +200,8 @@ Rhen od razu posmutniał na te słowa i trochę mocniej pociągnął nożem wzd�
 
 — Wracaj na górę. Będziemy czekać.
 
+<br/> 
+
   
 
 O świcie po rance na palcu nie został prawie żaden ślad, poza cienką kreską strupa. Rhen wygrzebał się spod kołdry, odetchnął głęboko i przeciągnął się. Poczuł tworzącą mu się na ramionach gęsią skórkę i chociaż chciał być wdzięczny za rześki poranek, miał też ogromną ochotę znów schować się w pościeli. Westchnął z rezygnacją i dzielnie podszedł do drzwi, oddzielających jego pokój od pokoju rodziców.
@@ -213,6 +221,8 @@ Oni już nie spali, rozmawiali cicho, z tego co chłopiec rozumiał — o wydarz
 Rhen spojrzał w stronę ojca, który akurat kończył układanie Ellie włosów. Aranell skinął głową z uśmiechem i znów sięgnął po grzebień.
 
 — Do usług, ereilein — powiedział i zaśmiał się, gdy mały elf zmarszczył nos.
+
+<br/> 
 
   
 
@@ -276,6 +286,8 @@ Członkowie dworu zaczęli ustawiać się w niekształtną kolejkę. Jednym z ic
 
 Zgodzili się. Ventriasin Vestrian był jednym z dłużej pełniących swoją rolę eraai i był bardzo przywiązany do panującego porządku. I przy okazji, nie był w stanie kontrolować swoich reakcji, więc im bardziej zdenerwowany czy zniesmaczony się wydawał, tym bardziej interesująca sprawa musiała być omawiana. 
 
+<br/> 
+
   
 
 Później zmieniali miejsca dość często. Szukali czegoś interesującego i chaotycznego, ale tego dnia nic nie chciało się wydarzyć. Kilka razy rozdzielili się, nasłuchując wśród mniej lub bardziej zadowolonych interesantów, jak potoczyły się ich rozmowy, ale wracali z podobnymi wnioskami – dzień obfitował w sprawy drobne. Albo związane z Przełęczą, która z kolei była sprawą za dużą do zrozumienia, mimo ich najszczerszych chęci.
@@ -297,6 +309,8 @@ Chłopiec wzruszył ramionami.
 Rhen zaśmiał się.
 
 — Pewnie nie będę w stanie. Będziecie mnie nawiedzać w koszmarach.
+
+<br/> 
 
   
 
@@ -323,6 +337,8 @@ Uśmiechnęła się, po raz pierwszy od rana i przygarnęła go do siebie.
 — Mój mały, dzielny chłopiec. Nie dorastaj za szybko.
 
   
+<br/> 
+
 
   
 
@@ -365,6 +381,8 @@ Rhen przejął wodze od Firy. Elfka przytuliła go.
 — Ja ci przyłożę jak wrócisz — obiecała — Bo jesteś niemożliwie głupi. Powodzenia.
 
 Bliźnięta zeskoczyły z wozu. Umknęli między budynki. Rhen wziął głęboki wdech. Następny etap planu opierał się głównie na dużym łucie szczęścia, więc błagał w myślach los o przychylność. Skierował się do południowej bramy pałacu.
+
+<br/> 
 
   
 
@@ -425,6 +443,8 @@ Konie stukały kopytami, las szumiał i raz na jakiś czas było słychać trzep
 Obok traktu rozległ się szelest i chłopiec rozejrzał się, ale nie znalazł źródła dźwięku. Przypisał go jakiejś spłoszonej sarnie, którą ciężko byłoby dojrzeć wśród wysokich paproci. Wziął głęboki wdech. Czekała ich długa podróż przez Wieczną Puszczę.
 
   
+<br/> 
+
 
 Magiczne, ogromne drzewa przepuszczały przez liście promienie słońca, które leniwie przesuwało się po niebie. Szary świt zmienił się w jasne i pogodne przedpołudnie. Wieczna Puszcza tonęła w żywych odcieniach zieleni i ciepłym brązie dębowej kory. Deptana przez konie ściółka pachniała późną wiosną. Można było zatracić się w cudownej atmosferze. Grupa z wozu niechętnie walczyła z tą rozleniwiającą otoczką, ale i tak ich rozmowy stawały się coraz lżejsze.
 
@@ -583,8 +603,12 @@ Rhen rzucił się przed siebie niemal na oślep. Przez moment widział jedynie b
 A potem był ból. Z jego lewego przedramienia wystawała kość. Krzyknął. Znów pojawił się błysk. Resztką świadomości poczuł znów chłód ziemi na policzku. Ale to nie mogła być prawda. Bo przecież patrzył prosto w szeroko otwarte oczy Lira.
 
   
+<br/> 
+
 
 ***
+
+<br/> 
 
   
 
@@ -605,6 +629,8 @@ Gardło chłopca zacisnęło się i zaczął szlochać, mimo paskudnego bólu, j
 — Miałeś nie dorastać zbyt szybko, mój mały, dzielny chłopcze. — usłyszał jej zbolały szept, moment przed zaśnięciem.
 
   
+<br/> 
+
 
 Kolejne dni zlały się Rhenowi w powtarzalne cykle wizyt uzdrowiciela, długiego snu i bycia zmuszanym przez rodziców do jedzenia i rozmów. Właściwie zmuszanie prowadziła Ellie, ale była zajęta przez większą część każdego dnia. Aranell nie zmuszał syna do niczego. Po prostu siedział obok niego, czytając lub szkicując. Ich wspólna cisza zapewniała chłopcu komfort. Czasem zaczynał płakać i mógł wtedy liczyć na spokojne otulenie przez ojca. Ból zanikał. Przynajmniej ten w ciele.
 
@@ -647,6 +673,8 @@ Ale Rhen już poczuł, że robi mu się słabo. Wydawało mu się, że mignął 
 — Cała szós-tka? — głos chłopca załamał się. Aranell zastąpił Reva przy boku elfiątka, a Fira znów mocno złapała przyjaciela za dłoń. Kiwnęła powoli głową, gdy na nią spojrzał. Poczucie winy zaczęło dusić Rhena i ściskać go w środku tak, że poczuł znowu obtłuczenie żeber. Na wpół kaszląc, na wpół szlochając pozwolił, by ojciec go objął. Może dlatego chciał, by kara była bardziej uciążliwa. Bo czuł, że zasłużył na coś gorszego. Nie przez złamanie prawa. Przez to, do czego doprowadził.
 
   
+<br/> 
+
 
 Późnym wieczorem wróciła matka. Sprawdziła czy Rhen śpi, a upewniwszy się, że jeszcze nie, wpuściła do jego pokoju kolejnego niezapowiedzianego gościa. I właściwie, również bardzo niespodziewanego.
 
@@ -677,6 +705,8 @@ Złotowłosa elfka przełknęła kilka razy ślinę i walczyła sama ze sobą. W
 — To też nie twoja wina — powiedziała Ellie, przygarniając go do siebie. Chłopiec po raz kolejny tego dnia poczuł mokre łzy na policzkach i nagle zapragnął pobiec w ślad za młodą Mellear, gdziekolwiek, gdzie w spokoju mogłoby ich pochłonąć poczucie winy.
 
   
+<br/> 
+
 
 Czas mijał. Rhen powoli wracał do formy, wychodząc na długie spacery po pałacu i ogrodach. Zgodnie z zapowiedzią, nie mógł posmakować samotności – wciąż towarzyszył mu ktoś ze straży.    Obserwował treningi walki bliźniaków, w których jeszcze nie mógł brać udziału, częściej towarzyszył matce w jej wypełnionymi obowiązkami dniach. Więcej czytał — matka zaczęła przynosić mu więcej książek o historii, polityce i strategii. Te ostatnie całkiem szybko przyswajał.
 

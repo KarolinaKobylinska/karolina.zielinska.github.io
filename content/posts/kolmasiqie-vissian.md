@@ -21,6 +21,8 @@ Młody elf zniknął w korytarzu, prawdopodobnie chcąc się przebrać i osuszy�
 W pokoju było ciepło i jasno. W kominku palił się ogień, świece pomagały magicznemu światłu w rozpraszaniu wieczornego zmroku. Elfka oparła się o framugę, nie ingerując jeszcze w spokojną scenę, jaką zastała. Aranell siedział przed sztalugami, całkowicie pogrążony w czymś co powstawało na płótnie. Zwykle skupiał się na bardziej użytkowym wykorzystaniu swoich talentów, jakby zaraził się od Ellie bezwzględną praktycznością. Elfka nie mogła jednak ukryć, jak ucieszyło ją zobaczenie męża tworzącego obraz, a nie kolejną partię ceramiki. Uwielbiała wszystko co robił, ale gdy malował obrazy, przypominały jej się pierwsze lata ich małżeństwa, które we wspomnieniach wydawały się być najbardziej sielankowymi chwilami jej życia.
 
   
+<br/> 
+
 
 W niższej części, na ławie przed fortepianem siedzieli Rafell z Velltireą. Razem grali melodię, którą było słychać wcześniej w wejściu. Dziewczynka uważnie śledziła zapis nutowy, by w odpowiednim momencie dodać swoją partię. Ellie cieszyła się, że uległa, gdy bard błagał o możliwość przytargania do domu tego instrumentu. Nawet jeśli docenienie tej „inwestycji” przyszło do niej dopiero wtedy, gdy Vella zaczęła szukać sobie nowego zajęcia i postanowiła sprawdzić nauczycielskie talenty młodego Melleara. I kiedy gra na lutni okazała się trudna przy czasami sztywniejących palcach elfiątka, to „zagracający” salon ciemny, muzyczny kredens wybaczał mniej zgrabne naciskanie klawiszy.
 
@@ -49,6 +51,8 @@ Ellie parsknęła śmiechem. Muzyka ucichła całkowicie, gdy elfiątko obróci�
 — Odmawiam odpowiedzi — parsknął Rafell — jeden obity bok tego wieczoru wystarczy.
 
   
+<br/> 
+
 
 Wieczór był przyjemnie powolny. Między kolejnymi dzbankami herbaty, lekką kolacją i dokładaniem drewna do ognia znajdował się czas na wspólne rozmowy o rzeczach, które nie miały ogromnej wagi, a mimo wszystko były ważne i zajmujące. Po prostu były też przyjemne. Nie wymagały żadnego taktycznego spojrzenia, nikt nie musiał zastanawiać się nad niczym, co było poza bezpiecznym i ciepłym salonem. Rhen rozłożył planszę szachów – figury nie stały się prawdziwymi armiami, stracony pionek nie oznaczał pokonanego oddziału.
 
@@ -75,6 +79,8 @@ Ellie poczuła, że Rhen jej się przygląda.
 — Jedna przegrana mi dzisiaj wystarczy — prychnęła.
 
   
+<br/> 
+
 
 Dała się jednak namówić na jeszcze jedną partię. Grali dłużej i zawzięciej. W którymś momencie Rafell przeniósł się sprzed fortepianu do stolika, żeby obserwować. Pod sam koniec Aranell też do nich dołączył. Wynik był taki sam – Rhen zmusił Ellie do poddania się, choć tym razem elfka broniła się do ostatniej chwili.  Raczej dla zapewnienia rozrywki niezwykle szerokiej widowni niż przez faktyczną chęć przedłużenia gry.
 
@@ -87,6 +93,8 @@ Złożyła szachownicę i usiadła na sofie. Starała się nie patrzeć bezpośr
 Aranell wrócił do salonu z czystymi przyborami do malowania, czterema kubkami i dzbankiem grzanego wina. Najwidoczniej on też nie chciał, by ten wieczór zmienił się w następny dzień.
 
   
+<br/> 
+
 
 Siedzieli w czwórkę w dolnej części salonu, przy rzadko używanym stoliku kawowym. Popijali wino i zanurzali się w rozmowie   – znów spokojnej, znów nie mającej żadnej wagi w świecie, który kłócił się o wielką magię i w którym każdy ruch i prawie każde słowo zmieniały miejsca pionków i figur na ogromnej planszy rzeczywistości.
 
@@ -97,6 +105,8 @@ W tym momencie znaczenie miało tłumaczenie Rafella subtelnych różnic w sposo
 Ten moment byłby słodszy tylko wtedy, gdyby następny dzień mógł wyglądać tak samo. Ale był wystarczająco dobry, by się tym nie przejmować.
 
   
+
+<br/> 
 
   
 
@@ -191,6 +201,8 @@ Nie była w stanie przypomnieć sobie, by kiedykolwiek płakała w milczeniu. Ty
 Teraz był tylko smutkiem.
 
   
+<br/> 
+
 
 Gdy Aranell wszedł do pokoju, jak zwykle robił, chcąc sprawdzić, czy Ellie nie zasnęła przypadkiem na podłodze, nie musiała nic mówić. Zapalił kolejną świecę i usiadł przy nich. Objął Ellie, a jednocześnie oparł się o nią. Jego łzy wsiąkały w jej włosy.
 
@@ -207,5 +219,7 @@ Rhen i Rafell znaleźli się w pokoju dopiero o świcie, wyraźnie zaniepokojeni
 Reszta świata nie miała pojęcia o elfiej dziewczynce, którą dogonił jej przewidziany przy narodzinach los. Reszta świata nie miała pojęcia o rozłażącej się po domu żałobie. Reszty świata nie obchodził ostatni wieczór z okrutnie krótkiego życia Velltirei Saquranth.
 
   
+<br/> 
+
 
 Ale teraz ta reszta świata nie miała znaczenia.

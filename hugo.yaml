@@ -31,3 +31,7 @@ params:
       > First two of presented stories were created after the end of D&D campaign I ran, because I couldn’t let go of some of my favourite NPCs. The last one is a story starring my PC of first campaign I played in and it is a part of her backstory (Yes, I am my DM’s favourite player).
       > Most of the worldbuilding and all of the phrases in elven and dragon languages, characters and plots are my own creations, but there could be some obvious inspirations as a consequence of initial concepts having roots in a TTRPG system.
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

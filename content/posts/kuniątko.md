@@ -10,7 +10,7 @@ Rhen zaczynał dusić się ze śmiechu, gdy udało mu się po raz kolejny uchron
 
 — Wszystkie dłonie całe? — usłyszeli najpierw zadane delikatnym głosem pytanie, a dopiero potem szelest liści, alarmujący, że ktoś się do nich zbliża. Rhen przerwał zabawę i odruchowo złapał miecz za rękojeść, ale zaskoczył go ciężar zmierzchowej stali, zakłuło go w łokciu i Dulciven upadł w koniczynę. Rev od razu przyciągnął ostrze bliżej siebie, Fira za to uśmiechnęła się w pełen złośliwości i radości sposób.
 
-— Zakładam że tak — odpowiedział głos sam sobie. Jego właścicielka w końcu przedostała się przez krzewy, walczyła z gałązką, która zaczepiła jej się o włosy. Popatrzyła na troje elfiątek badawczo, zatrzymując wzrok trochę dłużej na Rhenie — dobrze, że zdążyłam.
+— Zakładam, że tak — odpowiedział głos sam sobie. Jego właścicielka w końcu przedostała się przez krzewy, walczyła z gałązką, która zaczepiła jej się o włosy. Popatrzyła na troje elfiątek badawczo, zatrzymując wzrok trochę dłużej na Rhenie — dobrze, że zdążyłam.
 
 — Udajesz — zarzucił jej chłopiec — Rev, powiedz, że dobrze mi szło.
 
@@ -22,7 +22,7 @@ Rhen zaczynał dusić się ze śmiechu, gdy udało mu się po raz kolejny uchron
 
 — Dulciven lubi zwiedzać z nami pałac i próbować rzeczy. Nie miał chyba okazji do dobrej zabawy przed dłuuuugi czas — dodał Rev.
 
-— Miecze dobrze się bawią, jak mogą posmakować czyjejś krwi — stwierdziła Oxialrys, patrząc już gdzieś ponad głowami dzieci. Zerknęli w tamtą stronę, nic nie zobaczyli i wbili spojrzenia w jasnowłosą elfkę — ah, wiem po co przyszłam. Usłyszałam parę plotek i nie mogłam po prostu przewidzieć waszych odpowiedzi. Zamiast tego zobaczyłam małego Saqurantha bez ręki.
+— Miecze dobrze się bawią, jak mogą posmakować czyjejś krwi — stwierdziła Oxialrys, patrząc już gdzieś ponad głowami dzieci. Zerknęli w tamtą stronę, nic nie zobaczyli i wbili spojrzenia w jasnowłosą elfkę — ah, wiem po co przyszłam. Usłyszałam parę plotek i nie mogłam po prostu przewidzieć waszych odpowiedzi. Zamiast tego, zobaczyłam małego Saqurantha bez ręki.
 
 Rhen spojrzał spode łba, jakby dalej nie wierzył jej słowom. Fira za to już została złapana na haczyk zainteresowania.
 
@@ -220,7 +220,7 @@ Przed samym wyjściem matka otaksowała Rhena wzrokiem, po czym zdjęła jedną 
 
 — Pasuje ci — uśmiechnęła się elfka — chyba nawet bardziej niż mi.
 
-Jej uśmiech zniknął jednak od razu po wyjściu na pałacowy korytarz. Bez konkretnego powodu. Rhen zdołał do tego przywyknąć. Matka była po prostu gotowa do walki, gdy tylko opuszczała ich pokoje. Albo gdy mieli gości. Właściwie, to najczęściej była właśnie taka - poważna, skupiona i uważna. Ojciec nazywał to niewidzialną zbroją. Chłopiec zastanawiał się czasami, czy też kiedyś będzie taką miał.
+Jej uśmiech zniknął jednak od razu po wyjściu na pałacowy korytarz. Bez konkretnego powodu. Rhen zdołał do tego przywyknąć. Matka była po prostu gotowa do walki, gdy tylko opuszczała ich pokoje. Albo gdy mieli gości. Właściwie, to najczęściej była właśnie taka   – poważna, skupiona i uważna. Ojciec nazywał to niewidzialną zbroją. Chłopiec zastanawiał się czasami, czy też kiedyś będzie taką miał.
 
 W sali tronowej, zamkniętej tego dnia przed interesantami, rozstawione były długie stoły, bogato zastawione jedzeniem. Część dworu już chodziła po sali, zajęta rozmowami. Podwyższenie dla Rady Heroldów było puste, mimo tego, że paru eraai już się pojawiło. Widocznie nikomu nie chciało się tak wcześnie udawać nieprzystępnego symbolu władzy, gdy powietrze było wypełnione zapachem nektaru i ciepłego pieczywa. Przynajmniej Rhenowi by się nie chciało. Z drugiej strony, na myśl o Lirze i innych viverielach, które bez wątpienia musiały przygotować znaczną część z obecnego na stole jedzenia, trochę stracił apetyt.
 
@@ -252,9 +252,9 @@ Pevrhanes spojrzał na Firę i pogroził jej palcem. Elfka pokazała mu język.
 
 Rhen wbił wzrok w kanapkę na swoim talerzu, która nagle przestała wyglądać smacznie. Zerknął w stronę matki. Fira machnęła ręką.
 
-— Ona wie. Tylko ty jesteś jak zwykle niedoinformowany - dodał Rev.
+— Ona wie. Tylko ty jesteś jak zwykle niedoinformowany — dodał Rev.
 
-Dorośli zmienili temat. Samethan miał informacje z różnych frontów i wyniki walk ostatnich bitew, co dla młodszej trójki szybko przestało być interesujące. Nie mieli jednak wyjścia - pod czujnym spojrzeniem matki bliźniąt musieli grzecznie siedzieć w miejscu. Nie mieli nawet jak próbować podsłuchiwać innych rozmów - w powoli wypełniającej się sali pobrzmiewał ciągły szum, z którego ciężko było wyłonić pojedyncze słowa. Aż do pojawienia się cesarza. Rozmowy zostały przerwane, przez salę przeszedł szelest, gdy wszyscy wstali.
+Dorośli zmienili temat. Samethan miał informacje z różnych frontów i wyniki walk ostatnich bitew, co dla młodszej trójki szybko przestało być interesujące. Nie mieli jednak wyjścia   – pod czujnym spojrzeniem matki bliźniąt musieli grzecznie siedzieć w miejscu. Nie mieli nawet jak próbować podsłuchiwać innych rozmów – w powoli wypełniającej się sali pobrzmiewał ciągły szum, z którego ciężko było wyłonić pojedyncze słowa. Aż do pojawienia się cesarza. Rozmowy zostały przerwane, przez salę przeszedł szelest, gdy wszyscy wstali.
 
 Ganimerall Moreis Mellear szedł pewnym krokiem do podwyższenia, nie zwracając uwagi na nikogo dookoła. Rhen często słyszał od matki o „próżnej ambicji” cesarza, ale zawsze, gdy go widział, miał wrażenie, że władca jest tylko i wyłącznie znużony. Może była to maska na takie zgromadzenia. Eraai ruszyli w stronę swoich miejsc. Matka spojrzała na Rhena uważnie. Rozumiał o co chodziło. To było spojrzenie, mówiące, by był grzeczny. I żeby miał uszy i oczy szeroko otwarte.
 
@@ -262,7 +262,7 @@ Członkowie dworu zaczęli ustawiać się w niekształtną kolejkę. Jednym z ic
 
 — Poszły sobie — zaśmiała się Fira po chwili — ale będziesz zdecydowanie bezpieczniejszy po drugiej stronie sali.
 
-Żadne z nich nie potrzebowało dodatkowego sygnału. A groźby Essianari, choćby najbardziej sykliwe, nie były w stanie ich fizycznie zatrzymać. Nikt inny nie próbował - całą trójką dali się wszystkim poznać, głównie jako szybko przemieszczające się po pałacu kształty, więc ich krótki bieg między stołami i grupami osób, nie był niczym niecodziennym. Zniknęli za kotarami, które oddzielały część sali, by służba i straż mogła przemieszczać się bez przeszkadzania dworowi. Gwardziści zerknęli na nich i bez słowa wrócili do obserwowania pomieszczenia. Kotara była prześwitująca z tej strony, co elfiątkom bardzo pasowało - idealna kryjówka, do wybrania następnej.
+Żadne z nich nie potrzebowało dodatkowego sygnału. A groźby Essianari, choćby najbardziej sykliwe, nie były w stanie ich fizycznie zatrzymać. Nikt inny nie próbował – całą trójką dali się wszystkim poznać, głównie jako szybko przemieszczające się po pałacu kształty, więc ich krótki bieg między stołami i grupami osób, nie był niczym niecodziennym. Zniknęli za kotarami, które oddzielały część sali, by służba i straż mogła przemieszczać się bez przeszkadzania dworowi. Gwardziści zerknęli na nich i bez słowa wrócili do obserwowania pomieszczenia. Kotara była prześwitująca z tej strony, co elfiątkom bardzo pasowało – idealna kryjówka, do wybrania następnej.
 
 — Jest miejsce dość blisko początku kolejki — zauważył Rhen. Rev pokręcił głową.
 
@@ -278,7 +278,7 @@ Zgodzili się. Ventriasin Vestrian był jednym z dłużej pełniących swoją ro
 
   
 
-Później zmieniali miejsca dość często. Szukali czegoś interesującego i chaotycznego, ale tego dnia nic nie chciało się wydarzyć. Kilka razy rozdzielili się, nasłuchując wśród mniej lub bardziej zadowolonych interesantów, jak potoczyły się ich rozmowy, ale wracali z podobnymi wnioskami - dzień obfitował w sprawy drobne. Albo związane z Przełęczą, która z kolei była sprawą za dużą do zrozumienia, mimo ich najszczerszych chęci.
+Później zmieniali miejsca dość często. Szukali czegoś interesującego i chaotycznego, ale tego dnia nic nie chciało się wydarzyć. Kilka razy rozdzielili się, nasłuchując wśród mniej lub bardziej zadowolonych interesantów, jak potoczyły się ich rozmowy, ale wracali z podobnymi wnioskami – dzień obfitował w sprawy drobne. Albo związane z Przełęczą, która z kolei była sprawą za dużą do zrozumienia, mimo ich najszczerszych chęci.
 
 — Nudzę się — przyznał Rev po kolejnym bezowocnym przejściu się po sali — Jak dorosnę, nie zamierzam mieszkać w Meallenne. Myślę, że będę miał dość całego tego miejsca za jakieś dziesięć lat.
 
@@ -300,7 +300,7 @@ Rhen zaśmiał się.
 
   
 
-Powrót do pokojów w wyższych partiach Wiecznych Dębów sprawiał wrażenie niekończącej się wspinaczki. Późna pora i cały dzień spędzony na bezowocnych poszukiwaniach nowinek zbierały swoje żniwo - Rhen mimo starań powłóczył nogami.
+Powrót do pokojów w wyższych partiach Wiecznych Dębów sprawiał wrażenie niekończącej się wspinaczki. Późna pora i cały dzień spędzony na bezowocnych poszukiwaniach nowinek zbierały swoje żniwo – Rhen mimo starań powłóczył nogami.
 
 — Ine… czy na Przełęczy coś się stało?
 
@@ -326,21 +326,21 @@ Uśmiechnęła się, po raz pierwszy od rana i przygarnęła go do siebie.
 
   
 
-Następnego wieczoru Rhen wrócił do pokojów tak samo zmęczony jak poprzedniego. Szykował się cały dzień. Musiał wyjaśnić Firze i Revowi kilka kroków swojego planu, bo wiedział, że sam nie będzie w stanie wszystkiego zrobić. Przenosił rzeczy - takie jak zbierane przez tydzień zapasy suchych racji żywnościowych i podróżne płaszcze. Sprawdzał kilka razy, czy sfałszowane dokumenty wyglądają wystarczająco prawdopodobnie.
+Następnego wieczoru Rhen wrócił do pokojów tak samo zmęczony jak poprzedniego. Szykował się cały dzień. Musiał wyjaśnić Firze i Revowi kilka kroków swojego planu, bo wiedział, że sam nie będzie w stanie wszystkiego zrobić. Przenosił rzeczy – takie jak zbierane przez tydzień zapasy suchych racji żywnościowych i podróżne płaszcze. Sprawdzał kilka razy, czy sfałszowane dokumenty wyglądają wystarczająco prawdopodobnie.
 
 Rozstawił planszę szachową na podłodze swojego pokoju i ułożył figury w specyficzny wzór. Od kiedy plan wykiełkował w jego głowie, unikał jakiegokolwiek trwałego zapisywania swoich pomysłów. Na wszelki wypadek. Wykorzystywał jednak pionki i szachownicę, jako sposób na uporządkowanie myśli. Ustawiał figurę. Przypisywał jej znaczenie. Wymyślał problemy. Szukał rozwiązań. Przez kilka miesięcy wzór układał się powoli. W końcu wyglądał na kompletny.
 
 W nocy nie mógł spać. Czuł cały czas, jak serce mocno uderza mu w mostek. Powtarzał sobie w myślach, że chce zrobić coś dobrego. Że powinien czuć się dobrze. Przekonywał sam siebie, aż srebrne światło Luy nie wypełniło jego pokoju. Nastąpił czas na pierwszy krok planu. Nie było już sensu zasypiać.
 
-Ostrożnie wstał z łóżka i usiadł przed lustrem. Plan zaczynał się od ostatnich przygotowań. Związał włosy rzemieniem i sięgnął po sztylet. Wyobrażał sobie, że uda mu się jednym ruchem ściąć włosy, ale ostrze wymagało od niego więcej starania się. Przynajmniej efekt był taki, jakiego się spodziewał - z odbicia w lustrze, lekko przestraszonym wzrokiem, patrzył na niego elf z niepoukładanym gniazdem ciemnych włosów na głowie. Trzymał w garści odcięty kucyk i poczuł, że krew zaczyna szumieć mu w uszach. Nie miał odwrotu. Nie chciał odwrotu. Schował odcięte włosy w szufladzie szafki nocnej.
+Ostrożnie wstał z łóżka i usiadł przed lustrem. Plan zaczynał się od ostatnich przygotowań. Związał włosy rzemieniem i sięgnął po sztylet. Wyobrażał sobie, że uda mu się jednym ruchem ściąć włosy, ale ostrze wymagało od niego więcej starania się. Przynajmniej efekt był taki, jakiego się spodziewał – z odbicia w lustrze, lekko przestraszonym wzrokiem, patrzył na niego elf z niepoukładanym gniazdem ciemnych włosów na głowie. Trzymał w garści odcięty kucyk i poczuł, że krew zaczyna szumieć mu w uszach. Nie miał odwrotu. Nie chciał odwrotu. Schował odcięte włosy w szufladzie szafki nocnej.
 
-Spojrzał w lustro jeszcze raz - z czapką naciągniętą na uszy, w trochę za małych ubraniach i z kosmykami zasłaniającymi jego twarz, wyglądał bardzo nie szlachecko. I mógł ujść za pół-elfa, co w gruncie rzeczy chciał osiągnąć. Przełknął ślinę, chcąc odgonić narastający ucisk, wywoływany przez ciągle bębniące serce. Przełożył przez ramię płaską torbę.
+Spojrzał w lustro jeszcze raz – z czapką naciągniętą na uszy, w trochę za małych ubraniach i z kosmykami zasłaniającymi jego twarz, wyglądał bardzo nieszlachecko. I mógł ujść za pół-elfa, co w gruncie rzeczy chciał osiągnąć. Przełknął ślinę, chcąc odgonić narastający ucisk, wywoływany przez ciągle bębniące serce. Przełożył przez ramię płaską torbę.
 
 Cicho wyszedł z pokoju i bezszelestnie wydostał się na korytarz. Ledwo oddychał, nasłuchując uważnie strażników patrolujących pałac. Skradał się od wnęki do wnęki, od cienia do cienia, aż do przejścia dla służby. Tutaj pozwolił sobie na głębszy wdech i zaczął schodzić po schodach. Wyglądał przez szczeliny w korze, sprawdzając, czy jest wystarczająco nisko i w końcu uznał, że czas się wydostać. Wiele razy wspinał się z bliźniętami po Wiecznych Dębach, choć nigdy nie czuł wtedy w rękach takiej słabości od braku snu. Nie mógł się tym przejmować. Wierzył, że da radę. Przecisnął się przez szczelinę, gdy z jego pola widzenia zniknął strażnik patrolujący ogród. Mocno trzymał się kory i powoli, krok po kroku, zbliżał się do ziemi.
 
 Schował się między trawami, w których zwykle siedział z Firą i Revem. Usiadł na moment, schował głowę w kolanach i uspokajał oddech. Wstał.
 
-Niebo zaczynało się szarzyć, gdy udało mu się prześlizgnąć przez żywopłot otaczający dworek Orthearów. Przekradł się wzdłuż niego aż do placu, na którym stał nieduży wóz. Ich wóz. Jeden z elementów wzoru, który pojawił się parę miesięcy temu i od razu pasował na swoje miejsce. Stajenni w pałacu chcieli się go pozbyć, ze względu na zepsutą oś, ale trójce udało się go wyprosić, początkowo do zabawy, później do naprawiania razem z Aranellem, a następnie do sporadycznych lekcji powożenia. Tym razem jednak miał pełnić bardzo ważną rolę. Chłopiec wślizgnął się pod płachtę. Miał chwilę na odpoczynek - musiał poczekać aż jego współspiskowcy, przynajmniej do tej części planu, pojawią się na swoim miejscu.
+Niebo zaczynało się szarzyć, gdy udało mu się prześlizgnąć przez żywopłot otaczający dworek Orthearów. Przekradł się wzdłuż niego aż do placu, na którym stał nieduży wóz. Ich wóz. Jeden z elementów wzoru, który pojawił się parę miesięcy temu i od razu pasował na swoje miejsce. Stajenni w pałacu chcieli się go pozbyć, ze względu na zepsutą oś, ale trójce udało się go wyprosić, początkowo do zabawy, później do naprawiania razem z Aranellem, a następnie do sporadycznych lekcji powożenia. Tym razem jednak miał pełnić bardzo ważną rolę. Chłopiec wślizgnął się pod płachtę. Miał chwilę na odpoczynek – musiał poczekać aż jego współspiskowcy, przynajmniej do tej części planu, pojawią się na swoim miejscu.
 
 Głos Firy w końcu poniósł się po placu, gdy ponaglała Reva na „zaplanowaną lekcję” i jednocześnie prosiła kogoś o przygotowanie koni. Rhen na wszelki wypadek wślizgnął się pod ławkę i znów czekał. Wydawało mu się, że wstrzymał oddech na nieskończenie ciągnący się moment i wypuścił powietrze dopiero, gdy wóz ruszył.
 
@@ -368,7 +368,7 @@ Bliźnięta zeskoczyły z wozu. Umknęli między budynki. Rhen wziął głęboki
 
   
 
-O tej porze następowała zmiana warty. I o świcie południową bramą opiekował się Ceanler, młody elf, którego ambicja karmiła jego niezwykle rozdmuchaną dumę, przez co traktował swoje decyzje jako nieomylne. Rhen bardzo liczył na to, że strażnik się nie zmienił. Liczył na to, że nie potwierdzi z nikim historii, którą zamierzał mu wcisnąć.
+O tej porze następowała zmiana warty. I o świcie południową bramą opiekował się Ceanler, młody elf, którego ambicja karmiła jego niezwykle rozdmuchaną dumę, przez co traktował swoje decyzje jako nieomylne. Rhen bardzo liczył na to, że strażnik się nie zmienił. Liczył też na to, że nie potwierdzi z nikim historii, którą zamierzał mu wcisnąć.
 
 Chłopiec zatrzymał konie po usłyszeniu krótkiego rozkazu. Czekał, aż Ceanler podejdzie i zacznie zadawać pytania. Położył dłoń na wierzchu torby. Strażnik stanął obok wozu i spojrzał niechętnie w górę. Nie odzywał się i po chwili milczenia wykrzywił usta w wściekły sposób.
 
@@ -390,7 +390,7 @@ Rhen nie odpowiedział, zacisnął zęby i spuścił wzrok, chowając w sobie og
 
 — To przekazuj. Przynajmniej nie jesteś na tyle głupi, by pomylić miejsce.
 
-Rhen sięgnął do torby i wyciągnął plik dokumentów, owiniętych w cienki pergamin. Poczuł jak stres ściska go za gardło, gdy Ceanler otworzył pakunek i zaczął przeglądać karty. Rhen skopiował standardowe dokumenty używane przez hodowców i kupców viverieli. Mógł im się przyjrzeć, gdy matka sprawdzała spis pałacowej służby i badała połączenia dworzan z różnymi gałęziami niewolnictwa. Był to jeden z pierwszych elementów jego ogromnej układanki. Sporo się napracował, najpierw przenosząc treści z kart potwierdzających przewóz viverieli na kalkę, a potem tworząc odpowiednio wyglądające dokumenty. Przepisywał je bez końca, by wyglądały prawdziwie, wiele dni, czy właściwie nocy walcząc z bolącym nadgarstkiem. Wiedział, że wyglądały prawdziwie. Wiedział, że wpisał prawidłowe imiona i numery. Wiedział, że idealnie podrobił podpis jednego z kupców. Wiedział, że Ceanler nie potwierdzi z nikim, czy był planowany jakiś przewóz viverieli na ten dzień. Mimo to, każde uderzenie swojego serca, podchodzącego mu do gardła, gdy strażnik przeglądał dokumenty. To prawie koniec — powtarzał sobie w myślach. Elf kazał mu czekać i przeszedł przez bramę, kierując się w stronę przylegających do kuchni pomieszczeń dla viverieli.
+Rhen sięgnął do torby i wyciągnął plik dokumentów, owiniętych w cienki pergamin. Poczuł jak stres ściska go za gardło, gdy Ceanler otworzył pakunek i zaczął przeglądać karty. Rhen skopiował standardowe dokumenty używane przez hodowców i kupców viverieli. Mógł im się przyjrzeć, gdy matka sprawdzała spis pałacowej służby i badała połączenia dworzan z różnymi gałęziami niewolnictwa. Był to jeden z pierwszych elementów jego ogromnej układanki. Sporo się napracował, najpierw przenosząc treści z kart potwierdzających przewóz viverieli na kalkę, a potem tworząc odpowiednio wyglądające dokumenty. Przepisywał je bez końca, by wyglądały prawdziwie, wiele dni, czy właściwie nocy walcząc z bolącym nadgarstkiem. Wiedział, że wyglądały prawdziwie. Wiedział, że wpisał prawidłowe imiona i numery. Wiedział, że idealnie podrobił podpis jednego z kupców. Wiedział, że Ceanler nie potwierdzi z nikim, czy był planowany jakiś przewóz viverieli na ten dzień. Mimo to, każde uderzenie swojego serca, podchodzącego mu do gardła, gdy strażnik przeglądał dokumenty. *To prawie koniec* — powtarzał sobie w myślach. Elf kazał mu czekać i przeszedł przez bramę, kierując się w stronę przylegających do kuchni pomieszczeń dla viverieli.
 
 Rhen musiał powstrzymać łzy ulgi, gdy Ceanler wrócił do bramy, prowadząc za sobą sześć oskrzydlonych sylwetek. Udało się. Już prawie wszystko się udało. Wyjazd z Meallenne, ostatnia prosta, wydawał się niezwykle łatwy, gdy wszystkie wcześniej przygotowane elementy układanki wpasowały się na swoje miejsce.
 
@@ -408,7 +408,7 @@ Ceanler wrócił na posterunek przy bramie, ale Rhen jeszcze długo czuł na sob
 
 Sześć viverieli siedziało w wozie, jednocześnie sztywno i spokojnie. Chłopiec uśmiechnął się niepewnie. Lir kiwnął mu głową. Żadne z nich nie chciało się odezwać.
 
-— Rozwiążę was, jak tylko wyjedziemy z miasta — rzucił Rhen cicho. Zobaczył jeszcze, jak Melij nerwowo poruszył ogonem, a Kian powstrzymała cień uśmiechu. Skupił się na drodze przed sobą. Konie szły gładko po zamszonym trakcie, stolica dopiero wydawała się budzić do życia - jej mieszkańcy zaczynali poruszać się między budynkami, narastał szum żywego miasta - kakofonia kroków, rozmów i głosów budzących się zwierząt. Droga ciągnęła się ociężale, nie chcąc wypuścić wozu z miasta i Rhen czuł, że z każdą chwilą robiło mu się coraz bardziej duszno. W końcu jednak budynki i zamieszkane wieczne dęby ustąpiły miejsca drzewom wolnym od mieszkańców, trakt miał na kamiennych płytach coraz mniej mchu, a bezharmoniczna dźwięczność miasta zaczęła zostawać w tyle. Chłopiec zaczepił wodze przy ławce i wszedł do wozu. Cierpliwie rozwiązał sznury krepujące szóstkę viverieli. Stłumił złość, która pojawiła się w nim, gdy tylko zobaczył jak rozcierają podrapane przez więzy nadgarstki. Już nigdy nie mieli doznać czegoś takiego.
+— Rozwiążę was, jak tylko wyjedziemy z miasta — rzucił Rhen cicho. Zobaczył jeszcze, jak Melij nerwowo poruszył ogonem, a Kian powstrzymała cień uśmiechu. Skupił się na drodze przed sobą. Konie szły gładko po zamszonym trakcie, stolica dopiero wydawała się budzić do życia – jej mieszkańcy zaczynali poruszać się między budynkami, narastał szum żywego miasta – kakofonia kroków, rozmów i głosów budzących się zwierząt. Droga ciągnęła się ociężale, nie chcąc wypuścić wozu z miasta i Rhen czuł, że z każdą chwilą robiło mu się coraz bardziej duszno. W końcu jednak budynki i zamieszkane wieczne dęby ustąpiły miejsca drzewom wolnym od mieszkańców, trakt miał na kamiennych płytach coraz mniej mchu, a bezharmoniczna dźwięczność miasta zaczęła zostawać w tyle. Chłopiec zaczepił wodze przy ławce i wszedł do wozu. Cierpliwie rozwiązał sznury krepujące szóstkę viverieli. Stłumił złość, która pojawiła się w nim, gdy tylko zobaczył jak rozcierają podrapane przez więzy nadgarstki. Już nigdy nie mieli doznać czegoś takiego.
 
 — Mam dla was płaszcze i małe zapasy na kilka dni — powiedział, wyciągając juki schowane pod ławkami — chciałem przygotować więcej, ale…
 
@@ -446,7 +446,7 @@ Poczuł ucisk w żołądku i wszystkie jego myśli zmieniły się w krzyk pod je
 
 — Uciekajcie — wydusił z siebie chłopiec — Między drzewa. Chowajcie się.
 
-Ruszyli się natychmiast, chwytając juki z jedzeniem i zeskakując z wozu. Rhen nie marnował czasu, popędził konie, chcąc zwrócić jak największą uwagę na siebie. Niech tylko uda im się uciec. Tylko tyle. Niech im się uda.
+Ruszyli się natychmiast, chwytając juki z jedzeniem i zeskakując z wozu. Rhen nie marnował czasu, popędził konie, chcąc zwrócić jak największą uwagę na siebie. *Niech tylko uda im się uciec. Tylko tyle. Niech im się uda.*
 
 Nie zwolnił, na żadne rozkazy rzucane za nim. Nie zwolnił, gdy zorientował się, że ktoś strzela w płachtę wozu. Nie zwolnił nawet wtedy, gdy jedna ze strzał przeleciała niebezpiecznie blisko jego głowy.
 
@@ -516,7 +516,7 @@ Strzelec zaśmiał się. Zrobił kolejny krok do przodu i siłą przekrzywił g�
 
 — Ciekawe sytuacje nazywasz pojedynkami — syknęła — twój inei byłby dumny?
 
-Rhen wyminął Zwiadowcę i znalazł się przy matce. Widział jak cała postawa Eldareana staje się napięta i absolutnie nie ciekawiło go, co miało się wydarzyć, gdy Orthear jednak stracił cierpliwość. Przed tą zbędną wiedzą uratował go kolejny tętent kopyt.
+Rhen wyminął Zwiadowcę i znalazł się przy matce. Widział jak cała postawa Eldareana staje się napięta i absolutnie nie ciekawiło go, co miało się wydarzyć, gdyby Orthear jednak stracił cierpliwość. Przed tą zbędną wiedzą uratował go kolejny tętent kopyt.
 
 — Kapitanie! Złapaliśmy trzy!
 
@@ -566,7 +566,7 @@ Orthear wzruszył ramionami. Rhen dalej nie mógł się ruszyć. Złapał się n
 
 Poza pytaniami Ortheara, żadne dźwięki nie docierały do Rhena. Próbował podnieść się z ziemi, co utrudniały mu złączone metalem ręce.
 
-— Wiesz, co dzieje się z uciekającymi niewolnikami? Hm, nie zamierzasz odpowiadać? Uciekinierzy tracą skrzydło. Jeśli wykaże im się premedytację w działaniu - obydwa. Jeśli sprawiają problemy po schwytaniu i jest choć cień podejrzenia, że nie będą się nadawać do służby… — elf wyciągnął miecz i podniósł go na wysokość oczu, sprawdzając, czy jest wystarczająco ostry — …nieprawidłowo działające narzędzia nikomu się już nie przydadzą.
+— Wiesz, co dzieje się z uciekającymi niewolnikami? Hm, nie zamierzasz odpowiadać? Uciekinierzy tracą skrzydło. Jeśli wykaże im się premedytację w działaniu – obydwa. Jeśli sprawiają problemy po schwytaniu i jest choć cień podejrzenia, że nie będą się nadawać do służby… — elf wyciągnął miecz i podniósł go na wysokość oczu, sprawdzając, czy jest wystarczająco ostry — …nieprawidłowo działające narzędzia nikomu się już nie przydadzą.
 
 — Mam na imię Lir — powiedział viveriel ledwo słyszalnie. Ale podniósł głowę, popatrzył prosto na Ortheara — I dotknąłem wolności. Już zawsze będę jej pragnąć. Mocniej. Mocniej niż przez całe życie.
 
@@ -578,7 +578,7 @@ Rhen zdołał wstać. Szumiało mu w uszach i znów walczył o władzę nad swoi
 
 Miecz błysnął za viverielem.
 
-Rhen rzucił się przed siebie niemal na oślep. Przez moment widział jedynie błyski - ten na ostrzu, drobne odbicia światła na łuskach Lira, linię światła na swoich własnych kajdanach. Podniósł ręce, zasłaniając twarz. Nie widział już błysków. Został tylko szum w uszach i dziwny syk za nim.
+Rhen rzucił się przed siebie niemal na oślep. Przez moment widział jedynie błyski – ten na ostrzu, drobne odbicia światła na łuskach Lira, linię światła na swoich własnych kajdanach. Podniósł ręce, zasłaniając twarz. Nie widział już błysków. Został tylko szum w uszach i dziwny syk za nim.
 
 A potem był ból. Z jego lewego przedramienia wystawała kość. Krzyknął. Znów pojawił się błysk. Resztką świadomości poczuł znów chłód ziemi na policzku. Ale to nie mogła być prawda. Bo przecież patrzył prosto w szeroko otwarte oczy Lira.
 
@@ -610,7 +610,7 @@ Kolejne dni zlały się Rhenowi w powtarzalne cykle wizyt uzdrowiciela, długieg
 
 Jednego popołudnia do pokoju wtargnęli Rev i Fira. Chociaż „wtargnięcie” było za dużym słowem, bo pojawili się w nadzwyczaj spokojnej atmosferze, co w ich przypadku było dość niepokojące. Fira starała się uśmiechnąć pokrzepiająco, ale Rev psuł jej próby swoją pełną powagą.
 
-— Ogłoszono twoją karę — obwieściła elfka, gdy już wybrnęli z niewygodnych powitań i paru grzecznościowych pytań. Bliźnięta usadowiły się wygodnie na łóżku, po dwóch stronach Rhena. Aranell przesiadł się na fotel, ale nie wydawało się, by miał jakkolwiek przeszkadzać, trójce dzieci.
+— Ogłoszono twoją karę — obwieściła elfka, gdy już wybrnęli z niewygodnych powitań i paru grzecznościowych pytań. Bliźnięta usadowiły się wygodnie na łóżku, po dwóch stronach Rhena. Aranell przesiadł się na fotel, ale nie wydawało się, by miał jakkolwiek przeszkadzać trójce dzieci.
 
 — Za porwanie — dodał Rev — twoja matka na to nalegała.
 
@@ -678,7 +678,7 @@ Złotowłosa elfka przełknęła kilka razy ślinę i walczyła sama ze sobą. W
 
   
 
-Czas mijał. Rhen powoli wracał do formy, wychodząc na długie spacery po pałacu i ogrodach. Zgodnie z zapowiedzią, nie mógł posmakować samotności - wciąż towarzyszył mu ktoś ze straży.    Obserwował treningi walki bliźniaków, w których jeszcze nie mógł brać udziału, częściej towarzyszył matce w jej wypełnionymi obowiązkami dniach. Więcej czytał — matka zaczęła przynosić mu więcej książek o historii, polityce i strategii. Te ostatnie całkiem szybko przyswajał.
+Czas mijał. Rhen powoli wracał do formy, wychodząc na długie spacery po pałacu i ogrodach. Zgodnie z zapowiedzią, nie mógł posmakować samotności – wciąż towarzyszył mu ktoś ze straży.    Obserwował treningi walki bliźniaków, w których jeszcze nie mógł brać udziału, częściej towarzyszył matce w jej wypełnionymi obowiązkami dniach. Więcej czytał — matka zaczęła przynosić mu więcej książek o historii, polityce i strategii. Te ostatnie całkiem szybko przyswajał.
 
 Gdy miał gorsze dni, dołączał do ojca, w jego pracowni. W towarzystwie wiecznie zamyślonego elfa i w przyjemnej ciszy, czuł się prawie jakby był sam. W dokładnie taki sposób, jaki potrzebował.
 

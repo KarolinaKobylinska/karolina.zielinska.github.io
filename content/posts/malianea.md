@@ -4,7 +4,7 @@ draft = false
 weight = 3
 +++
 
-Niebieska dziewczynka powolnymi, dokładnymi ruchami dłubała widelcem w kawałku pieczonej ryby. Nie, nie dłubała. Ryba służyła jako postawa dla widelca, a już trochę podrośnięte pisklę po prostu uważnie obserwowało złapany w metal promień światła, prowadząc go po całej długości sztućca.
+Niebieska dziewczynka powolnymi, dokładnymi ruchami dłubała widelcem w kawałku pieczonej ryby. Nie, nie dłubała. Ryba służyła jako podstawa dla widelca, a już trochę podrośnięte pisklę po prostu uważnie obserwowało złapany w metal promień światła, prowadząc go po całej długości sztućca.
 
 — Nie smakuje ci, czy się po prostu zamyśliłaś? — głos Fennai wyrwał dziewczynkę ze stanu samo-zahipnotyzowania się. Spojrzała na niemal nieruszony obiad, podniosła wzrok na starszą siostrę i westchnęła głęboko. Białołuska teatralnie zmarszczyła brwi i pogroziła Malii swoim widelcem — Hej, nie jest aż taki zły, tym razem nie przypaliłam marchwi.
 
@@ -22,7 +22,7 @@ Niebieska parsknęła krótkim śmiechem.
 
 — To co się stało? — starsza poczuła, jak Malia kręci głową, wciskając się bliżej. Przygarnęła ją do siebie, ale niebieska wywinęła się z objęć, zanim udało im się zacząć dzielić moment w bezgranicznym vindrigehrcurra. Białołuska westchnęła, odprowadzając młodszą wzrokiem, gdy ta uciekała po schodach do swojego pokoju. Zastanawiając się nad tym, co mogło dziać się teraz w głowie jej małej siostry, bezmyślnie nabrała na widelec tłuczoną marchew i z zaskoczeniem odkryła w niej niedogotowaną grudkę warzywa. Parsknęła pod nosem stwierdzenie, że magia jest prostsza, bo przepisy oszukują, a formuły nie i powędrowała myślami do sposobu, w jaki mogłaby wykorzystać magię do ułatwienia sobie gotowania.
 
-W tym samym czasie Malia zebrała wszystkie swoje pluszaki na środek pokoju, porozkładała poduszki i książki, na jednej z poduszek równo ułożyła szydełkowaną serwetkę z szafki nocnej i rozdzieliła pluszaki na odpowiednie miejsca. Jej pokój zmienił się w miniaturowy teatr, ze specyficzną scenografią i nieożywionymi jeszcze aktorami. Poprawiała szczegóły w milczeniu, przez długi czas, po czym szeptem zaczęła odgrywać sztukę, której scenariusz przeszkadzał jej przez cały dzień.
+W tym samym czasie, Malia zebrała wszystkie swoje pluszaki na środek pokoju, porozkładała poduszki i książki, na jednej z poduszek równo ułożyła szydełkowaną serwetkę z szafki nocnej i rozdzieliła pluszaki na odpowiednie miejsca. Jej pokój zmienił się w miniaturowy teatr, ze specyficzną scenografią i nieożywionymi jeszcze aktorami. Poprawiała szczegóły w milczeniu, przez długi czas, po czym szeptem zaczęła odgrywać sztukę, której scenariusz przeszkadzał jej przez cały dzień.
 
 — Musisz poprawić skrzydła Gryfiku, dzisiaj nie jesteś tak roztrzepany jak zwykle — oznajmiła, starając się położyć skrzydła pluszaka równo na jego plecach — musisz iść do szkoły i musisz być grzeczny i miły. I choć trochę słuchać na historii tej legendy o Aldaliah, choć już ją słyszałeś od cioci Viché, a FenFen powiedziała, że to trochę nieprawda. Bo trzeba słuchać w szkole. Żeby nauczycielom nie było przykro. Nie chcesz chyba, żeby pani Wiewiórce było przykro? I jak nie słuchasz, to zaczynasz przeszkadzać, a nie wolno przeszkadzać. Gotowy? Dobrze, to idź do szkoły. Och, poczekaj, musisz się pożegnać z siostrą! — w drugą rękę wzięła pluszowego pegaza i popatrzyła na niego — musisz być teraz siostrą Puszku, przepraszam. Będziesz Śnieżką, nie bądź zły, potem znowu będziesz Puszkiem. Dobrze. Musicie się pożegnać, bo Śnieżka ma dużo rzeczy do zrobienia i nie może iść z tobą do szkoły Gryfiku, ona już była w szkole, a teraz już jest za duża.
 
@@ -88,7 +88,7 @@ Gryfik usiadł przy srebrnym Niedźwiadku.
 
 — Może Dźwiadek mi pożyczy ołówek?
 
-— Nawet go nie pytaj — Malia pokręciła głową z rezygnacją — powie ci coś niemiłego i i tak nie pożyczy. Użyj kredek.
+— Nawet go nie pytaj — Malia pokręciła głową z rezygnacją — powie ci coś niemiłego i, i tak nie pożyczy. Użyj kredek.
 
 Pani Wiewiórka zaczęła lekcję. Głosem poważnej Malii ze zmarszczonym nosem zadawała pytania i każdy oprócz Gryfika był wybrany do odpowiedzi, po czym obwieściła przerwę.
 
@@ -130,7 +130,7 @@ Niebieska przesunęła królika i pieska do poduszki nakrytej serwetką. Fennai 
 
 — Masz rację, prawie nigdy nie widzimy jej poza szkołą, nigdy nie przychodzi do mnie, czasem nawet się nie żegna po szkole, bo tak się cieszy, jak widzi siostry, że o nas zapomina. Więc pewnie nas nie lubi i to zła przyjaciółka. Przyjaciel znaczy. Gryfik. I nie pasuje do nas i w końcu trzeba będzie się z nim odkolegować.
 
-Białołuska powstrzymała swój ogon przed stuknięciem o podłogę, zaczęła męczyć w palcach jedno z pasm srebrnych włosów, bez dźwięcznie wzdychając. Malia wróciła do pluszowego gryfa. Skrzydła zwisały mu smutno.
+Białołuska powstrzymała swój ogon przed stuknięciem o podłogę, zaczęła męczyć w palcach jedno z pasm srebrnych włosów, bezdźwięcznie wzdychając. Malia wróciła do pluszowego gryfa. Skrzydła zwisały mu smutno.
 
 — Skąd wiesz, że tak powiedziały? — spytał.
 
@@ -184,7 +184,7 @@ Wdrapała się na łóżko i mocno przytuliła gryfa do siebie, zwijając się w
 
 — Najładniejsze.
 
-— Dokładnie tak. Zobaczymy, czy jest też smaczne. Zrobiłam herbatę i jeszcze jest twój obiad. I opowiesz mi o swoim dniu, co? A potem ja ci opowiem o swoim. I zobaczymy ile miłych rzeczy nas dzisiaj spotkało.
+— Dokładnie tak. Zobaczymy, czy jest też smaczne. Zrobiłam herbatę i jeszcze jest twój obiad. I opowiesz mi o swoim dniu, co? A potem ja ci opowiem o swoim. I zobaczymy, ile miłych rzeczy nas dzisiaj spotkało.
 
 — A jak mnie spotkały same niemiłe?
 

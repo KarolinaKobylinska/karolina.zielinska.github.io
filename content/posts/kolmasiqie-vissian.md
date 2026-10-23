@@ -4,23 +4,25 @@ draft = false
 weight = 2
 +++
 
-Z pokoju dziennego pachniało cierpkością farby i naparu z czerwonych owoców. Zapach miał w sobie jednak coś lekkiego, nawet jeśli było to tylko złudne wrażenie, przez kontrast z ciężką wonią mokrego piachu i kamienia - mieszanki powstałej po całym popołudniu wypełnionym jesiennym deszczem.
+Z pokoju dziennego pachniało cierpkością farby i naparu z czerwonych owoców. Zapach miał w sobie jednak coś lekkiego, nawet jeśli było to tylko złudne wrażenie, przez kontrast z ciężką wonią mokrego piachu i kamienia – mieszanki powstałej po całym popołudniu wypełnionym jesiennym deszczem.
 
-Po zamknięciu drzwi przycichł szum z zewnątrz i bez większego problemu było słychać w korytarzu graną na fortepianie melodię.
+Po zamknięciu drzwi, przycichł szum z zewnątrz i bez większego problemu było słychać w korytarzu graną na fortepianie melodię.
 
-— Kiedy ten dom został opętany przez duchy sztuk pięknych a nie wojennych? — rzuciła Ellie, uśmiechając się do Rhena. Jej syn pośpiesznie zrzucał z siebie ociekający deszczem płaszcz. Przewrócił lekko oczami, gdy obrócił się w jej stronę.
+— Kiedy ten dom został opętany przez duchy sztuk pięknych, a nie wojennych? — rzuciła Ellie, uśmiechając się do Rhena. Jej syn pośpiesznie zrzucał z siebie ociekający deszczem płaszcz. Przewrócił lekko oczami, gdy obrócił się w jej stronę.
 
 — Myślę, że to twoja wina. Sprowadziłaś sobie malarza do domu.
 
 — Nie musiałeś dorzucać muzyka do kolekcji — prychnęła elfka.
 
-— Sam przyszedł — oznajmił Rhen, unosząc dłonie w obronnym geście — ja tylko nieskończenie wydłużam jego zaproszenie.
+— Sam przyszedł — oznajmił Rhen, unosząc dłonie w obronnym geście — ja tylko okazuję mu niekończącą się gościnność.
 
-Młody elf zniknął w korytarzu, prawdopodobnie chcąc się przebrać i osuszyć przed wygodnym zagnieżdżeniem się wśród domowników. Ellie nie miała jednak nic przeciwko przywitaniu się z nimi przed ogarnięciem się po całym dniu, więc po odwieszeniu swojego płaszcza i odłożeniu broni, ruszyła w stronę salonu.
+Młody elf zniknął w korytarzu, prawdopodobnie chcąc się przebrać i osuszyć przed wygodnym zagnieżdżeniem się wśród domowników. Ellie nie miała jednak nic przeciwko przywitaniem się z nimi przed ogarnięciem się po całym dniu, więc po odwieszeniu swojego płaszcza i odłożeniu broni, ruszyła w stronę salonu.
 
-W pokoju było ciepło i jasno. W kominku palił się ogień, świece pomagały magicznemu światłu w rozpraszaniu wieczornego zmroku. Elfka oparła się o framugę, nie ingerując jeszcze w spokojną scenę, jaką zastała. Aranell siedział przed sztalugami, całkowicie pogrążony w czymś co powstawało na płótnie. Zwykle skupiał się na bardziej użytkowym wykorzystaniu swoich talentów, jakby zaraził się od Ellie bezwzględną praktycznością. Elfka nie mogła jednak ukryć, jak ucieszyło ją, zobaczenie męża tworzącego obraz, a nie kolejną partię ceramiki. Uwielbiała wszystko co robił, ale gdy malował obrazy, przypominały jej się pierwsze lata ich małżeństwa, które we wspomnieniach wydawały się być najbardziej sielankowymi chwilami jej życia.
+W pokoju było ciepło i jasno. W kominku palił się ogień, świece pomagały magicznemu światłu w rozpraszaniu wieczornego zmroku. Elfka oparła się o framugę, nie ingerując jeszcze w spokojną scenę, jaką zastała. Aranell siedział przed sztalugami, całkowicie pogrążony w czymś co powstawało na płótnie. Zwykle skupiał się na bardziej użytkowym wykorzystaniu swoich talentów, jakby zaraził się od Ellie bezwzględną praktycznością. Elfka nie mogła jednak ukryć, jak ucieszyło ją zobaczenie męża tworzącego obraz, a nie kolejną partię ceramiki. Uwielbiała wszystko co robił, ale gdy malował obrazy, przypominały jej się pierwsze lata ich małżeństwa, które we wspomnieniach wydawały się być najbardziej sielankowymi chwilami jej życia.
 
-W niższej części pokoju, na ławie przed fortepianem siedzieli Rafell z Velltireą. Razem grali melodię, którą było słychać już w wejściu. Dziewczynka uważnie śledziła zapis nutowy, by w odpowiednim momencie dodać swoją partię. Ellie uśmiechnęła się, ciesząc się, że ugięła się, gdy bard błagał o możliwość przytargania do domu tego instrumentu. Nawet jeśli docenienie tej „inwestycji” przyszło do niej dopiero wtedy, gdy Vella zaczęła szukać sobie nowego zajęcia i postanowiła sprawdzić nauczycielskie talenty młodego Melleara. I kiedy gra na lutni okazała się trudna przy czasami sztywniejących palcach elfiątka, to „zagracający” salon ciemny, muzyczny kredens wybaczał mniej zgrabne naciskanie klawiszy.
+  
+
+W niższej części, na ławie przed fortepianem siedzieli Rafell z Velltireą. Razem grali melodię, którą było słychać wcześniej w wejściu. Dziewczynka uważnie śledziła zapis nutowy, by w odpowiednim momencie dodać swoją partię. Ellie cieszyła się, że uległa, gdy bard błagał o możliwość przytargania do domu tego instrumentu. Nawet jeśli docenienie tej „inwestycji” przyszło do niej dopiero wtedy, gdy Vella zaczęła szukać sobie nowego zajęcia i postanowiła sprawdzić nauczycielskie talenty młodego Melleara. I kiedy gra na lutni okazała się trudna przy czasami sztywniejących palcach elfiątka, to „zagracający” salon ciemny, muzyczny kredens wybaczał mniej zgrabne naciskanie klawiszy.
 
 — Graj wolniej — rzuciła Vella, po zagraniu kolejnego fragmentu. Melodia nie zwolniła, Rafell tylko uśmiechnął się niewinnie. Młodsza elfka westchnęła — Ennaltié? Elanne? Enaelte?
 
@@ -48,7 +50,7 @@ Ellie parsknęła śmiechem. Muzyka ucichła całkowicie, gdy elfiątko obróci�
 
   
 
-Wieczór był przyjemnie powolny. Między kolejnymi dzbankami herbaty, lekką kolacją i dokładaniem drewna do ognia znajdował się czas na wspólne rozmowy o rzeczach, które nie miały ogromnej wagi, a mimo wszystko były ważne i zajmujące. Po prostu były też przyjemne. Nie wymagały żadnego taktycznego spojrzenia, nikt nie musiał zastanawiać się nad niczym, co było poza bezpiecznym i ciepłym salonem. Rhen rozłożył planszę szachów - figury nie stały się prawdziwymi armiami, stracony pionek nie oznaczał pokonanego oddziału.
+Wieczór był przyjemnie powolny. Między kolejnymi dzbankami herbaty, lekką kolacją i dokładaniem drewna do ognia znajdował się czas na wspólne rozmowy o rzeczach, które nie miały ogromnej wagi, a mimo wszystko były ważne i zajmujące. Po prostu były też przyjemne. Nie wymagały żadnego taktycznego spojrzenia, nikt nie musiał zastanawiać się nad niczym, co było poza bezpiecznym i ciepłym salonem. Rhen rozłożył planszę szachów – figury nie stały się prawdziwymi armiami, stracony pionek nie oznaczał pokonanego oddziału.
 
 Aranell malował. Chwila trwała w sielankowej atmosferze.
 
@@ -58,9 +60,9 @@ Vella w którymś momencie przestała dobrze trafiać w klawisze fortepianu i us
 
 Reszta świata nie była ważna w takich chwilach.
 
-Między ruszaniem figur, Ellie przeczesywała palcami srebrno-niebieskawe włosy córki, pozwalając jej przysnąć na swoim udzie. Vellę raz na jakiś czas przechodził dreszcz, ale oddychała spokojnie, więc wszystko było w normie, na tyle na ile elfiątko było normą. Ellie spojrzała na Rhena. Patrzył na szachownicę, analizował każdy z ruchów i ich konsekwencje, nie pokazywał po sobie nic poza skupieniem. Była pewna, że schowany za płótnem Aranell miał teraz ten sam wyraz twarzy. Elfka pozwoliła sobie na chwilę rozproszenia. Sięgnęła pamięcią kilka dekad wstecz - gdy przeniosła rodzinę do Meallenne. Na zdecydowanie dłużej niż chciała. Gdy wieczory takie jak ten nie zdarzały się prawie w ogóle, bo nawet w sennym spokoju trzeba było szykować się mentalnie na następny dzień. Rhen był wtedy w wieku Velli. Nigdy nie zasypiał tak spokojnie - w porównaniu z niekończącym się wierceniem syna, drobne dreszcze małej elfki były żadnym ruchem. Z drugiej strony Rhen po dniach pełnych biegania po pałacu i niekontrolowanego kombinowania zasypiał szybko i na całą noc.
+Między ruszaniem figur, Ellie przeczesywała palcami srebrno-niebieskawe włosy córki, pozwalając jej przysnąć na swoim udzie. Vellę raz na jakiś czas przechodził dreszcz, ale oddychała spokojnie, więc wszystko było w normie, na tyle na ile elfiątko było normą. Ellie spojrzała na Rhena. Patrzył na szachownicę, analizował każdy z ruchów i ich konsekwencje, nie pokazywał po sobie nic poza skupieniem. Była pewna, że schowany za płótnem Aranell miał teraz ten sam wyraz twarzy. Elfka pozwoliła sobie na chwilę rozproszenia. Sięgnęła pamięcią kilka dekad wstecz – gdy przeniosła rodzinę do Meallenne. Na zdecydowanie dłużej niż chciała. Gdy wieczory takie jak ten nie zdarzały się prawie w ogóle, bo nawet w sennym spokoju trzeba było szykować się mentalnie na następny dzień. Rhen był wtedy w wieku Velli. Nigdy nie zasypiał tak spokojnie – w porównaniu z niekończącym się wierceniem syna, drobne dreszcze małej elfki nie były żadnym ruchem. Z drugiej strony Rhen po dniach pełnych biegania po pałacu i niekontrolowanego kombinowania zasypiał szybko i na całą noc.
 
-Z Vellą pojechała do stolicy na parę miesięcy, kilka lat po powstaniu Sachany. Po pierwsze dlatego, że jej wkład w sprawę viverieli nie mógł się odbywać już wyłącznie listownie. Po drugie, przez głupią nadzieję, że może życie jej córki dało się uratować. Gdy nie mógł zaradzić na to żaden kleryk, gdy nie mógł jej pomóc ukryty w Lisim Lesie smok. Ostatnia nadzieja leżała w stolicy elfiego imperium. Oczywiście była to nadzieja złudna. Przynajmniej Vella zobaczyła Meallenne. Przynajmniej mogła spędzić czas z rówieśnikami i pobyć przez moment dzieckiem. Przynajmniej zdobyła trochę serc, nawet jeśli tylko przez nie wiążące się z niczym współczucie.
+Z Vellą pojechała do stolicy na parę miesięcy, kilka lat po powstaniu Sachany. Po pierwsze dlatego, że jej wkład w sprawę viverieli nie mógł się odbywać już wyłącznie listownie. Po drugie, przez głupią nadzieję, że może życie jej córki dało się uratować. Gdy nie mógł zaradzić na to żaden kleryk, gdy nie mógł jej pomóc ukryty w Lisim Lesie smok. Ostatnia nadzieja leżała w stolicy elfiego imperium. Oczywiście, była to nadzieja złudna. Przynajmniej Vella zobaczyła Meallenne. Przynajmniej mogła spędzić czas z rówieśnikami i pobyć przez moment dzieckiem. Przynajmniej zdobyła trochę serc, nawet jeśli tylko przez nie wiążące się z niczym współczucie.
 
 Ellie poczuła, że Rhen jej się przygląda.
 
@@ -74,23 +76,23 @@ Ellie poczuła, że Rhen jej się przygląda.
 
   
 
-Dała się jednak namówić na jeszcze jedną partię. Grali dłużej i zawzięciej. W którymś momencie Rafell przeniósł się sprzed fortepianu do stolika, żeby obserwować. Pod sam koniec Aranell też do nich dołączył. Wynik był taki sam - Rhen zmusił Ellie do poddania się, choć tym razem elfka broniła się do ostatniej chwili.  Raczej dla zapewnienia rozrywki niezwykle szerokiej widowni niż przez faktyczną chęć przedłużenia gry.
+Dała się jednak namówić na jeszcze jedną partię. Grali dłużej i zawzięciej. W którymś momencie Rafell przeniósł się sprzed fortepianu do stolika, żeby obserwować. Pod sam koniec Aranell też do nich dołączył. Wynik był taki sam – Rhen zmusił Ellie do poddania się, choć tym razem elfka broniła się do ostatniej chwili.  Raczej dla zapewnienia rozrywki niezwykle szerokiej widowni niż przez faktyczną chęć przedłużenia gry.
 
 Aranell zgarnął pędzle i paletę farb. Zakrył płótno. Widocznie nie był jeszcze gotowy na pokazanie swojej pracy. Ellie zaniosła śpiącą córkę do jej pokoju, budząc ją tylko na chwilę, by Vella mogła się przebrać i wygodnie położyć.
 
-Gdy wróciła do salonu, Rhen i Rafell byli przy fortepianie. Bard grał jakąś cichą kompozycję, z głową jej syna na kolanach, który ułożył się na ławie w sposób, którego w żaden sposób nie można było nazwać wygodnym. Za każdym razem zaskakiwało ją to, jak szybko tych dwóch, gdy tylko zostawiło się ich samych, zapominało o całej otaczającej ich rzeczywistości. I jak za prawie każdym razem ugryzła się w język, powstrzymując wszelkie kąśliwe uwagi. Gdy się nie powstrzymywała, Aranell przypominał jej o ich szeroko pojętej młodości i choć do tej pory nie wspomniał nic, co mogłoby być wykorzystane przeciwko niej przez niezwykle złośliwego barda, nie mogła mieć pewności, że za którymś razem taka kara od losu by jej nie spotkała.
+Gdy wróciła do salonu, Rhen i Rafell byli przy fortepianie. Bard grał jakąś cichą kompozycję, z głową jej syna na kolanach. Ułożył się on na ławie w sposób, którego nie można było nazwać wygodnym. Za każdym razem zaskakiwało ją to, jak szybko tych dwóch, gdy tylko zostawiło się ich samych, zapominało o całej otaczającej ich rzeczywistości. I jak za prawie każdym razem, ugryzła się w język, powstrzymując wszelkie kąśliwe uwagi. Gdy się nie powstrzymywała, Aranell przypominał jej o ich szeroko pojętej młodości i choć do tej pory nie wspomniał nic, co mogłoby być wykorzystane przeciwko niej przez niezwykle złośliwego barda, nie mogła mieć pewności, że za którymś razem taka kara od losu by jej nie spotkała.
 
-Złożyła szachownicę i usiadła na sofie. Starała się nie patrzeć bezpośrednio na dwóch elfów, ale też nie udawała specjalnie, że jest zajęta czymś innym. W gruncie rzeczy musiała przyznać przed samą sobą, że potrzebowała… takiego wieczoru. Spokojnego. Wspólnego. Wieczoru, w którym mogła popatrzeć na swoich chłopców i pomyśleć o nich, a nie o problemach, które miały dopiero przyjść. Pomyśleć o tym, na jak szczęśliwych wyglądali. I że mimo właściwie niedługiego wspólnego czasu, wydawali się być gotowi do spędzenia ze sobą całego życia. Nie miała w sobie wiele romantyzmu, już nie. I to co z niego zostało, wykorzystywała w pełni na Aranellu. Ale było coś w spokoju tej jesiennej nocy, co powodowało, że odrobinę zmiękła. I że mogła przyglądać się ukradkiem swojemu pierworodnemu i jego bardowi i pozwolić na to, by schowane gdzieś głęboko ciepło wydostało się chociaż na moment bliżej powierzchni.
+Złożyła szachownicę i usiadła na sofie. Starała się nie patrzeć bezpośrednio na dwóch elfów, ale też nie udawała specjalnie, że jest zajęta czymś innym. W gruncie rzeczy musiała przyznać przed samą sobą, że potrzebowała… takiego wieczoru. Spokojnego. Wspólnego. Wieczoru, w którym mogła popatrzeć na *swoich chłopców* i pomyśleć o nich, a nie o problemach, które miały dopiero przyjść. Pomyśleć o tym, na jak szczęśliwych wyglądali. I że mimo właściwie niedługiego wspólnego czasu, wydawali się być gotowi do spędzenia ze sobą całego życia. Nie miała w sobie wiele romantyzmu, już nie. I to co z niego zostało, wykorzystywała w pełni na Aranellu. Ale było coś w spokoju tej jesiennej nocy, co powodowało, że odrobinę zmiękła. I że mogła przyglądać się ukradkiem swojemu pierworodnemu i jego bardowi, i pozwolić na to, by schowane gdzieś głęboko ciepło wydostało się chociaż na moment bliżej powierzchni.
 
 Aranell wrócił do salonu z czystymi przyborami do malowania, czterema kubkami i dzbankiem grzanego wina. Najwidoczniej on też nie chciał, by ten wieczór zmienił się w następny dzień.
 
   
 
-Siedzieli w czwórkę w dolnej części salonu, przy rzadko używanym stoliku kawowym. Popijali wino i zanurzali się w rozmowie - znów spokojnej, znów nie mającej żadnej wagi w świecie, który kłócił się o wielką magię i w którym każdy ruch i prawie każde słowo zmieniały miejsca pionków i figur na ogromnej planszy rzeczywistości.
+Siedzieli w czwórkę w dolnej części salonu, przy rzadko używanym stoliku kawowym. Popijali wino i zanurzali się w rozmowie   – znów spokojnej, znów nie mającej żadnej wagi w świecie, który kłócił się o wielką magię i w którym każdy ruch i prawie każde słowo zmieniały miejsca pionków i figur na ogromnej planszy rzeczywistości.
 
 Ale teraz ta reszta świata nie miała znaczenia.
 
-W tym momencie znaczenie miało tłumaczenie Rafella subtelnych różnic w sposobach grania melodii, które Aranell wydawał się rozumieć na własny sposób, a Ellie i Rhen nie mieli do czego porównać. W tym momencie miały znaczenie wspomnienia Rhena z dzieciństwa spędzonego wśród Wiecznych Dębów, barwnie złośliwe opisy mieszkańców dworu dodawane przez Ellie, gdy jej syn nie pamiętał kogo i kiedy spotkał. W tym momencie, jedyna przyszłość o jakiej ktokolwiek wspomniał, dotyczyła ostatnich jesiennych kwiatów i które z nich Aranell potrzebował jeszcze znaleźć, by mieć składniki na pigmenty. W tym momencie ważne było to, że Ellie oparła się o ramię Aranella i że Rafell przełknął uwagę o tym, że nie wierzył w to, by jej plecy miały być kiedykolwiek nie wyprostowane.
+W tym momencie znaczenie miało tłumaczenie Rafella subtelnych różnic w sposobach grania melodii, które Aranell wydawał się rozumieć na własny sposób, a Ellie i Rhen nie mieli do czego porównać. W tym momencie miały znaczenie wspomnienia Rhena z dzieciństwa spędzonego wśród Wiecznych Dębów, barwnie złośliwe opisy mieszkańców dworu dodawane przez Ellie, gdy jej syn nie pamiętał kogo i kiedy spotkał. W tym momencie, jedyna przyszłość o jakiej ktokolwiek wspomniał, dotyczyła ostatnich jesiennych kwiatów, i które z nich Aranell potrzebował jeszcze znaleźć, by mieć składniki na pigmenty. W tym momencie ważne było to, że Ellie oparła się o ramię Aranella i że Rafell przełknął uwagę o tym, że nie wierzył w to, by jej plecy miały być kiedykolwiek niewyprostowane.
 
 Ten moment byłby słodszy tylko wtedy, gdyby następny dzień mógł wyglądać tak samo. Ale był wystarczająco dobry, by się tym nie przejmować.
 
@@ -104,11 +106,11 @@ Ten moment byłby słodszy tylko wtedy, gdyby następny dzień mógł wyglądać
 
 — Tylko powiem dobranoc — szepnęła, wchodząc głębiej do salonu. Ellie zmarszczyła lekko brwi, ale nie protestowała. Patrzyła, jak córka przytuliła kolejno każdego z domowników i mimo bycia wybudzoną ze snu jakimś koszmarem, była w stanie uśmiechnąć się uroczo, gdy życzyła im dobrej nocy.
 
-Przeszły w ciszy na piętro. Z pokoju Velli padało delikatne światło pojedynczej świecy. Pościel była w nieładzie - najwyraźniejszy znak na to, że mała elfka męczyła się z niepokojącym snem. Ellie zaczęła poprawiać kołdrę, Vella wytrzepała poduszkę. Elfiątku jednak nie śpieszyło się do powrotu do snu.
+Przeszły w ciszy na piętro. Z pokoju Velli padało delikatne światło pojedynczej świecy. Pościel była w nieładzie   – najwyraźniejszy znak tego, że mała elfka męczyła się z niepokojącym snem. Ellie zaczęła poprawiać kołdrę, Vella wytrzepała poduszkę. Elfiątku jednak nie śpieszyło się do powrotu do snu.
 
 — Usiądziesz ze mną? — spytała, podnosząc wzrok.
 
-— Oczywiście, że tak. Zaczekam aż zaśniesz.
+— Oczywiście, że tak. Zaczekam, aż zaśniesz.
 
 Siedziała więc. Oparła się plecami o zagłówek łóżka, owinęła Vellę kołdrą, gdy ta wtuliła się w jej bok i przestała układać. Głaskała kciukiem wierzch dłoni córki, czując na palcach chłód jej skóry. Vella oddychała drżąco. Ellie widziała jej otwarte oczy i była pewna, że córka unika spojrzenia na nią. Nie miała pojęcia dlaczego.
 
@@ -132,7 +134,7 @@ Gdy Vellę przeszedł silny dreszcz, Ellie musiała wziąć bardzo głęboki wde
 
 — To nie twoja wina.
 
-Wszyscy dokładnie wiedzieli, kogo obwinić. Przez kogo Vella musiała cierpieć. Ale nie z tego powodu tak łatwo było Ellie powiedzieć, że to nie była wina córki. Powodem było kłujące ją od dwunastu lat poczucie, że gdyby tamtego dnia przełknęła swoją dumę, Vella byłaby zdrowa i nieobciążona żadną przypadkową klątwą. To nie mogła być wina Velli, gdy Elpaérie już przyjęła tą winę na siebie.
+Wszyscy dokładnie wiedzieli, kogo obwinić. Przez kogo Vella musiała cierpieć. Ale nie z tego powodu, tak łatwo było Ellie powiedzieć, że to nie była wina córki. Powodem było kłujące ją od dwunastu lat poczucie, że gdyby tamtego dnia przełknęła swoją dumę, Vella byłaby zdrowa i nieobciążona żadną przypadkową klątwą. To nie mogła być wina Velli, gdy Elpaérie już przyjęła tą winę na siebie.
 
 — Spróbuj zasnąć, kwiatku.
 
@@ -168,7 +170,7 @@ Uśmiechnęła się na swój ostatni pomysł, spojrzała w górę. W błękitno-
 
 Paskudna gorycz ścisnęła Ellie za gardło, gdy przygarnęła córkę bliżej siebie. Złapała mocno jej dłoń.
 
-— Jesteś najodważniejszą małą elfką jaką znam. Naprawdę. Przysięgam ci, że nie ma odważniejszej - nie miała pojęcia jakim cudem głos jej się nie załamał. Może dlatego, że mówiła prawdę — Kocham cię. Nigdy nie mówiłam tego wystarczająco często — dodała szeptem.
+— Jesteś najodważniejszą małą elfką jaką znam. Naprawdę. Przysięgam ci, że nie ma odważniejszej. Nie miała pojęcia jakim cudem głos jej się nie załamał. Może dlatego, że mówiła prawdę — Kocham cię. Nigdy nie mówiłam tego wystarczająco często — dodała szeptem.
 
 — Wiem. Też cię kocham, ine.
 
@@ -200,7 +202,7 @@ Gdy Aranell wszedł do pokoju, jak zwykle robił, chcąc sprawdzić, czy Ellie n
 
 Elfka nie odpowiedziała. Czuła, że wszystko w niej sprzeciwia się temu stwierdzeniu, ale nie miała siły nic powiedzieć. Zaczęła płakać. Już nie samymi strużkami łez, a prawdziwym płaczem, ukrytym przez schowanie twarzy w ramieniu Aranella.
 
-Rhen i Rafell znaleźli się w pokoju dopiero o świcie, wyraźnie zaniepokojeni. Usiedli na podłodze przy łóżku. Aranell położył dłoń na ramieniu Rhenna, który trawił szok. Rafell był obok, objął syna Ellie i starał się ukradkiem ocierać łzy, które przyszły do niego zdecydowanie łatwiej.
+Rhen i Rafell znaleźli się w pokoju dopiero o świcie, wyraźnie zaniepokojeni. Usiedli na podłodze przy łóżku. Aranell położył dłoń na ramieniu Rhena, który trawił szok. Rafell był obok, objął syna Ellie i starał się ukradkiem ocierać łzy, które przyszły do niego zdecydowanie łatwiej.
 
 Reszta świata nie miała pojęcia o elfiej dziewczynce, którą dogonił jej przewidziany przy narodzinach los. Reszta świata nie miała pojęcia o rozłażącej się po domu żałobie. Reszty świata nie obchodził ostatni wieczór z okrutnie krótkiego życia Velltirei Saquranth.
 
